@@ -1,0 +1,21 @@
+body {
+  background-color: #1A2B3B;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+div {width: 100px;
+			height: 100px;
+			text-align:center;
+			color: black;
+			padding-top: 10px;
+			margin: 20px auto;
+		}
+
+		div:nth-child(odd){background-color:#6eff66}
+		div:nth-child(even){background-color:#ffa666}
+
+h1 {
+      text-align: center;
+      color: white;
+    }
